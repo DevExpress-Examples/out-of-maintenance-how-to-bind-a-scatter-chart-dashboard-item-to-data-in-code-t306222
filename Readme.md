@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Dashboard_CreateScatterChart/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_CreateScatterChart/Form1.vb))
+<!-- default file list end -->
 # How to bind a Scatter Chart dashboard item to data in code
 
 
